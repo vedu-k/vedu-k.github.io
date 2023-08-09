@@ -61,26 +61,6 @@ nav a:hover {
     text-transform: capitalize;
 }
 
-header > .actions {
-    background-color: orangered;
-    height: 3rem;
-    width: 6rem;
-    border-radius: 15px;
-    border: 1px solid rgba(0, 0, 0, 0.356);
-    padding-inline: 1rem;
-}
-
-header .actions > button {
-    border: none;
-    appearance: none;
-    background-color: #f35333;
-    padding-inline: 2rem;
-    padding-block: 1rem;
-    text-transform: uppercase;
-    font-weight: 100;
-    padding-inline: 1rem;
-}
-
 #home {
     display: flex;
     background-color: initial;
