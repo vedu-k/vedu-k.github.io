@@ -38,6 +38,7 @@ header > nav > ul {
     padding: 0;
     gap: 2rem;
     margin-right: 16cm;
+    margin-left: 3rem;
 }
 
 header > .logo {
